@@ -143,6 +143,7 @@ struct ContentView: View {
                                 .onEnded({ (value) in
                                     guard case .second(true, let drag?) = value else { return }
                                     if drag.translation.width < -dragArreaThreshold || drag.translation.width > dragArreaThreshold {
+                                        playSound(sound: "sound-rise", type: "mp3")
                                         moveCards()
                                     }
                                 })
