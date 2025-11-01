@@ -17,6 +17,7 @@
 		E17033C82EB61B9900EFF775 /* HoneymoonData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033C72EB61B9900EFF775 /* HoneymoonData.swift */; };
 		E17033CB2EB61BF200EFF775 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033CA2EB61BF200EFF775 /* CardView.swift */; };
 		E17033CD2EB61E8900EFF775 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033CC2EB61E8900EFF775 /* HeaderView.swift */; };
+		E17033CF2EB6211600EFF775 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033CE2EB6211600EFF775 /* FooterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		E17033C72EB61B9900EFF775 /* HoneymoonData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoneymoonData.swift; sourceTree = "<group>"; };
 		E17033CA2EB61BF200EFF775 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		E17033CC2EB61E8900EFF775 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		E17033CE2EB6211600EFF775 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				E17033B92EB6180200EFF775 /* ContentView.swift */,
 				E17033CA2EB61BF200EFF775 /* CardView.swift */,
 				E17033CC2EB61E8900EFF775 /* HeaderView.swift */,
+				E17033CE2EB6211600EFF775 /* FooterView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E17033C82EB61B9900EFF775 /* HoneymoonData.swift in Sources */,
+				E17033CF2EB6211600EFF775 /* FooterView.swift in Sources */,
 				E17033CD2EB61E8900EFF775 /* HeaderView.swift in Sources */,
 				E17033C52EB61B4A00EFF775 /* HoneymoonModel.swift in Sources */,
 				E17033BF2EB6180200EFF775 /* ContentView.swift in Sources */,
