@@ -24,6 +24,7 @@
 		E17033D82EB6308D00EFF775 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033D72EB6308D00EFF775 /* InfoView.swift */; };
 		E17033DA2EB630F900EFF775 /* TitleModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033D92EB630F900EFF775 /* TitleModifier.swift */; };
 		E17033DD2EB6320600EFF775 /* ButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033DC2EB6320600EFF775 /* ButtonModifier.swift */; };
+		E17033DF2EB64F6400EFF775 /* SymbolModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033DE2EB64F6400EFF775 /* SymbolModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		E17033D72EB6308D00EFF775 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		E17033D92EB630F900EFF775 /* TitleModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleModifier.swift; sourceTree = "<group>"; };
 		E17033DC2EB6320600EFF775 /* ButtonModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonModifier.swift; sourceTree = "<group>"; };
+		E17033DE2EB64F6400EFF775 /* SymbolModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 			children = (
 				E17033D92EB630F900EFF775 /* TitleModifier.swift */,
 				E17033DC2EB6320600EFF775 /* ButtonModifier.swift */,
+				E17033DE2EB64F6400EFF775 /* SymbolModifier.swift */,
 			);
 			path = Modifiers;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				E17033D82EB6308D00EFF775 /* InfoView.swift in Sources */,
 				E17033CF2EB6211600EFF775 /* FooterView.swift in Sources */,
 				E17033DA2EB630F900EFF775 /* TitleModifier.swift in Sources */,
+				E17033DF2EB64F6400EFF775 /* SymbolModifier.swift in Sources */,
 				E17033CD2EB61E8900EFF775 /* HeaderView.swift in Sources */,
 				E17033C52EB61B4A00EFF775 /* HoneymoonModel.swift in Sources */,
 				E17033DD2EB6320600EFF775 /* ButtonModifier.swift in Sources */,
