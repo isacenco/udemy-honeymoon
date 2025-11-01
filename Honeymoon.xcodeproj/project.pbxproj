@@ -12,6 +12,7 @@
 		E17033BE2EB6180200EFF775 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E17033B82EB6180200EFF775 /* Assets.xcassets */; };
 		E17033BF2EB6180200EFF775 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033B92EB6180200EFF775 /* ContentView.swift */; };
 		E17033C02EB6180200EFF775 /* HoneymoonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17033BA2EB6180200EFF775 /* HoneymoonApp.swift */; };
+		E17033C22EB6191F00EFF775 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E17033C12EB6191F00EFF775 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		E17033B82EB6180200EFF775 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E17033B92EB6180200EFF775 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E17033BA2EB6180200EFF775 /* HoneymoonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoneymoonApp.swift; sourceTree = "<group>"; };
+		E17033C12EB6191F00EFF775 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E17033B82EB6180200EFF775 /* Assets.xcassets */,
 				E17033B92EB6180200EFF775 /* ContentView.swift */,
 				E17033BA2EB6180200EFF775 /* HoneymoonApp.swift */,
+				E17033C12EB6191F00EFF775 /* LaunchScreen.storyboard */,
 			);
 			path = Honeymoon;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E17033BC2EB6180200EFF775 /* sound-click.mp3 in Resources */,
+				E17033C22EB6191F00EFF775 /* LaunchScreen.storyboard in Resources */,
 				E17033BD2EB6180200EFF775 /* sound-rise.mp3 in Resources */,
 				E17033BE2EB6180200EFF775 /* Assets.xcassets in Resources */,
 			);
@@ -286,6 +290,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -313,6 +318,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
